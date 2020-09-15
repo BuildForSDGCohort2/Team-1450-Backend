@@ -1,3 +1,4 @@
+/*eslint quotes: ["error", "single"]*/
 import db from '../../config/database';
 
 const getOneProduct = (req, res) => {

@@ -1,3 +1,4 @@
+/*eslint quotes: ["error", "single"]*/
 import { validationResult }from 'express-validator';
 import cloudinary from '../../config/cloudinary'; 
 import db from '../../config/database';

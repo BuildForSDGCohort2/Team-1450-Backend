@@ -1,3 +1,4 @@
+/*eslint quotes: ["error", "single"]*/
 import jwt from 'jsonwebtoken';
 import { validationResult } from 'express-validator';
 import db from '../../config/database';
